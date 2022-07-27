@@ -7,10 +7,10 @@
 <!--[![All Contributors](https://img.shields.io/badge/all_contributors-04-orange.svg?style=flat-square)](#contributors-)-->
 
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
-[![forthebadge](https://github.com/Divijkatyal0406/GoSecure/blob/main/for-her.svg)](https://forthebadge.com)
-[![forthebadge](https://github.com/Divijkatyal0406/GoSecure/blob/main/by-divij-katyal.svg)](https://forthebadge.com)
+[![forthebadge](https://github.com/Divijkatyal0406/GoSecure/blob/master/for-her.svg)](https://forthebadge.com)
+[![forthebadge](https://github.com/Divijkatyal0406/GoSecure/blob/master/by-divij-katyal.svg)](https://forthebadge.com)
 
 <h2 align="center" id="content"> 🗂 CONTENT:</h2>
 
