@@ -17,32 +17,31 @@
 ```diff
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 ```
-> `📌` [Cross WinterOfCode 21](#CrossWinterOfCode21)<br>
->> `📌` [Inspiration](#Inspiration)<br>
->>> `📌` [Tech Stack](#TechStack)<br>
->>>> `📌` [Features](#Features)<br>
->>>>> `📌` [How to get started](#Howtogetstarted?)<br>
->>>>>> `📌` [Steps to follow ](#Stepstofollow)<br>
->>>>>>> `📌` [Developed By](#DevelopedBy)<br>
->>>>>>>> `📌` [ScreenShots](#ScreenShots)<br>
->>>>>>>>> `📌` [Features We Demand](#FeaturesWeDemand)<br>
+> `📌` [Inspiration](#Inspiration)<br>
+>> `📌` [Tech Stack](#TechStack)<br>
+>>> `📌` [Features](#Features)<br>
+>>>> `📌` [How to get started](#Howtogetstarted?)<br>
+>>>>> `📌` [Steps to follow ](#Stepstofollow)<br>
+>>>>>> `📌` [Developed By](#DevelopedBy)<br>
+>>>>>>> `📌` [ScreenShots](#ScreenShots)<br>
+>>>>>>>> `📌` [Features We Demand](#FeaturesWeDemand)<br>
 ```diff
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 ```
-<br><br><br><br><br><br><br><br>
+<br>
 
 <h2 align="center" id="Inspiration"> :label: Inspiration</h2>
 
-Considering the safety and security of women in India in recent times, We wanted to give it a try from our end to address the issue in a simpler and safer way.
-
-Looking at the recent trends and the most powerful weapon with humanity - technology, we planned to use the same to give access to women in serious or dangerous situations to address the issue in a fast and easier way to ensure their security.
+Considering the importance of safety and security of women in India, I wanted to give it a try from my end to address the issue in a simpler and safer way.  The app is about safety as well as awareness & makes the user safe & confident. It is easy to use because of it's user friendly and easy to navigate UI. I wanted to give them a tap on the shoulder to keep going and not give up! 
+<br>
+Keeping this mind I developed an application named <b>GoSecure</b>.
 
 
  [Video Description](https://drive.google.com/file/d/1IqV4nTDAD8PjvhigO-51IQvEWMNxjqUw)
 
 <i><p align="center"><a href="#content">⬆️ BACK TO CONTENT</a></p></i><br>
 
-<br><br><br><br><br><br><br><br>
+<br>
 
 <h2 align="center" id="TechStack"> :label: Tech Stack
 
@@ -56,7 +55,7 @@ Looking at the recent trends and the most powerful weapon with humanity - techno
 
 <i><p align="center"><a href="#content">⬆️ BACK TO CONTENT</a></p></i><br>
 
-<br><br><br><br><br><br><br><br>
+<br>
 
 <h2 align="center" id="Features"> :label: Features</h2>
 
@@ -77,22 +76,7 @@ Looking at the recent trends and the most powerful weapon with humanity - techno
 
 <i><p align="center"><a href="#content">⬆️ BACK TO CONTENT</a></p></i><br>
 
-<br><br><br><br><br><br><br><br>
-
-<h2 align="center" id="Howtogetstarted?"> ⭐ How to get started?</h2>
-
-[![forthebadge](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)](https://forthebadge.com) <br>
-You can refer to the following articles on the basics of Git and Github and also contact the Project Mentors, in case you are stuck:
-
-- [Watch this video to get started, if you have no clue about open source](https://youtu.be/SL5KKdmvJ1U)
-- [Forking a Repo](https://help.github.com/en/github/getting-started-with-github/fork-a-repo)
-- [Cloning a Repo](https://help.github.com/en/desktop/contributing-to-projects/creating-a-pull-request)
-- [How to create a Pull Request](https://opensource.com/article/19/7/create-pull-request-github)
-- [Getting started with Git and GitHub](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)
-
-<i><p align="center"><a href="#content">⬆️ BACK TO CONTENT</a></p></i><br>
-
-<br><br><br><br><br><br><br><br>
+<br>
 
 <h2 align="center" id="Stepstofollow"> ⭐ Steps to follow :scroll:</h2>
 
@@ -267,54 +251,3 @@ Look into [Contributing Guidelines](https://github.com/kavania2002/MobiMart/blob
 |<h3 align="center">Switcher</h3><img width="1440" alt="Screen Shot 2020-11-21 at 10 00 06 PM" src="https://user-images.githubusercontent.com/56549294/99883803-ae1b5f00-2c4f-11eb-8a8e-85493ebd6aaf.png">||
 
 <i><p align="center"><a href="#content">⬆️ BACK TO CONTENT</a></p></i><br>
-
-<br><br><br><br><br><br><br><br>
-
-<h2 align="center" id="FeaturesWeDemand"> :star: Features We Demand</h2>
-
-|<h2> 1️⃣ AUTOMATION : Perform Tasks In Background</h2>|
-|---|
-|To make the app robust and self alarming, make it **`auto reactive`** according to some of the **` factors`** depending on `surroundings` listed below:|
-|🔘 Make it **`more active in a particular time range`**(ask us to set the more cautious timings).|
-|🔘 Consider the situation as **`emergency`** as **` if the shake and vibrations around the device exceed the fixed limit`**.|
-|🔘 **`SOS without opening app`** in an emergency(provide shortcut or gesture)|
-|🔘 **`Auto share SMS & mails & WhatsApp messages & live location`** to saved contacts while in emergency|
-|🔘 While the emergency detected **`record the path of the user until the situation gets safe`** afterward and **`keep sharing the location checkpoints in that timespan with the saved contacts`**(like within 5 mins refresh location to generate checkpoint and share automatically)|
-|🔘 **`Auto image capture`** while in emergency and share and save too.|
-
-<i><p align="center"><a href="#content">⬆️ BACK TO CONTENT</a></p></i><br>
-
-<br><br><br><br><br><br><br><br>
-
-## Open Source programs that Sheheroes is a part of:
-
-<p align="center">
- <a>
- <img  width="50%" height="20%" src="https://github.com/anirudhsai20/SheHeroes/raw/main/cross.png">
-
- <img  width="50%" height="20%" src="https://raw.githubusercontent.com/GirlScriptSummerOfCode/MentorshipProgram/master/GSsoc%20Type%20Logo%20Black.png">
-
-
-## Contributors:
-### Credit goes to these wonderful people: ✨
-
-<table>
-	<tr>
-		<td>
-   <a href="https://github.com/shagun25/SheHeroes/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=shagun25/SheHeroes" />
-</a>
-		</td>
-	</tr>
-</table>
-
-<h1 align="center"><img width=2% height=2% alt="SheHeroes" src="https://user-images.githubusercontent.com/56549294/108184515-5054c100-7131-11eb-83f8-fba6530601d9.png"> 🅂🄷🄴🄷🄴🅁🄾🄴🅂
-
-![Issues](https://img.shields.io/github/issues/threefreespirited/Jssconnect)
-![Pull Requests](https://img.shields.io/github/issues-pr/threefreespirited/Jssconnect)
-![Forks](https://img.shields.io/github/forks/threefreespirited/Jssconnect)
-![Stars](https://img.shields.io/github/stars/threefreespirited/Jssconnect)
-![](https://img.shields.io/github/repo-size/threefreespirited/Jssconnect.svg?label=Repo%20size&style=flat-square)&nbsp;
-</h1>
-
-
