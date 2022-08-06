@@ -2,6 +2,8 @@ import 'package:battery_plus/battery_plus.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:fluttertoast/fluttertoast.dart';
+import 'package:gosecure/Dashboard/ContactScreens/MyContacts.dart';
+import 'package:gosecure/Dashboard/ContactScreens/phonebook_view.dart';
 import 'package:location/location.dart';
 import 'package:permission_handler/permission_handler.dart' as appPermissions;
 import 'package:pinput/pin_put/pin_put.dart';
