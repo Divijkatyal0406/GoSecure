@@ -13,7 +13,7 @@ import 'package:sms_maintained/sms.dart' as smsSender;
 
 class Dashboard extends StatefulWidget {
   final int pageIndex;
-  const Dashboard({Key key, this.pageIndex = 0}) : super(key: key);
+
 
   @override
   _DashboardState createState() => _DashboardState(currentPage: pageIndex);
