@@ -37,8 +37,6 @@ Considering the importance of safety and security of women in India, I wanted to
 Keeping this mind I developed an application named <b>GoSecure</b>.
 
 
- [Video Description](https://drive.google.com/file/d/1IqV4nTDAD8PjvhigO-51IQvEWMNxjqUw)
-
 <i><p align="center"><a href="#content">⬆️ BACK TO CONTENT</a></p></i><br>
 
 <br>
