@@ -21,6 +21,7 @@ class Dashboard extends StatefulWidget {
 
 class _DashboardState extends State<Dashboard> {
   _DashboardState({this.currentPage = 0});
+  //List
 
   List<Widget> screens = [Home(), MyContactsScreen()];
   bool alerted = false;
