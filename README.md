@@ -1,7 +1,7 @@
 # GoSecure
 
 
-<h1 align="center"><img width=20% height=50% alt="SheHeroes" src="https://github.com/Divijkatyal0406/GoSecure/blob/master/GoSecure-logos-modified%20(2).png"></h1>
+<h1 align="center"><img width=20% height=50% alt="GoSecure" src="https://raw.githubusercontent.com/Divijkatyal0406/GoSecure/master/assets/GoSecure-logos.png?token=GHSAT0AAAAAABO63C3TN5U2V7M4LOLJFATEY5L2DJA"></h1>
 
 <h1 align="center">🅶🅾🆂🅴🅲🆄🆁🅴 - Women Safety App</h1>
 <!--[![All Contributors](https://img.shields.io/badge/all_contributors-04-orange.svg?style=flat-square)](#contributors-)-->
