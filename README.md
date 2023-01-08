@@ -26,6 +26,7 @@ Keeping this mind I developed an application named <b>GoSecure</b>.
 <br>
 
 <h2 align="center" id="TechStack"> 🧰 Tech Stack
+<br>
 
 ```diff
 + Flutter +
