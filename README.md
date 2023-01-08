@@ -23,8 +23,6 @@ Keeping this mind I developed an application named <b>GoSecure</b>.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<br>
-
 <h2 align="center" id="TechStack"> 🧰 Tech Stack
 <br>
 
