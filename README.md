@@ -25,7 +25,7 @@ Keeping this mind I developed an application named <b>GoSecure</b>.
 
 <br>
 
-<h2 align="center" id="TechStack"> :label: Tech Stack
+<h2 align="center" id="TechStack"> 🧰 Tech Stack
 
 ```diff
 + Flutter +
@@ -40,6 +40,25 @@ Keeping this mind I developed an application named <b>GoSecure</b>.
 ```
 </h2>
 
+<br>
+
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<br>
+
+<h2 align="center" id="TechStack"> 🤺 Core Features</h2>
+
+👉 Send alerts by detecting shake frequency of the user.<br>
+👉 Spy camera detector using magnetometer sensors of phone.<br>
+👉 Share location with your selected contacts periodically.<br>
+👉 Women emergency contacts on your fingertips.<br>
+👉 Get fake call instantly or after some delay.<br>
+👉 Scream alert to detect human scream and send alerts accordingly.<br>
+👉 Various articles and self defence techniques to empower women.<br>
+👉 Conversational Al for voice commands processing. You can tap on it and speak.<br>
+*get a fake call now, add contact, police, spy cam detector, send alerts, report, show
+articles, enable siren.....*
 <br>
 
 
