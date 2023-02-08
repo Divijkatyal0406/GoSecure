@@ -29,13 +29,13 @@ Keeping this mind I developed an application named <b>GoSecure</b>.
 ```diff
 + Flutter +
 + Dart +
-+ Google Map Api +
-+ CrimeoMeter Api +
++ Google Map API +
++ CrimeoMeter API +
 + Shared Preferences +
 + SMS Manager API +
 + Sensor Manager API +
 + Background Service +
-+ Media player api +
++ Media player API +
 ```
 </h2>
 
@@ -74,27 +74,27 @@ Download APK : [here](https://drive.google.com/file/d/1wv_ILZ_1aM0QC3-V5RrMzVOiS
 Feature | Images
 ------------ | -------------
  **Dashboard**  
- It is fast, easy to use, and incredibly convenient with a minimalistic UI! | ![homepage](https://github.com/Divijkatyal0406/CrowdQuest/blob/master/images/home.png)
-**Scream Alert** 
-Detects human scream to send alerts to saved contacts!|![registrationPage](https://github.com/Divijkatyal0406/CrowdQuest/blob/master/images/c_dashboard.png)
+ It is fast, easy to use, and incredibly convenient with a minimalistic UI! | <img src="https://github.com/Divijkatyal0406/GoSecure/blob/master/README-images/Dash.jpeg" width="230" height="450">
 **Go Nirbhaya**
-Sends journey alerts periodically with the loved ones! |![professor](https://github.com/Divijkatyal0406/CrowdQuest/blob/master/images/t_dashboard.png)
+Sends journey alerts periodically with the loved ones! |<img src="https://github.com/Divijkatyal0406/GoSecure/blob/master/README-images/nir-scream.jpeg" width="230" height="450">
 **Emergency contacts**
-Users are provided with various women emergency helplines on their fingertips |![professor](https://github.com/Divijkatyal0406/CrowdQuest/blob/master/images/question_submit.png)
+Users are provided with various women emergency helplines on their fingertips | <img src="https://github.com/Divijkatyal0406/GoSecure/blob/master/README-images/emer-con.jpeg" width="230" height="450">
 **Safety Pin**
-User can set the pin which can be used to turn off the SOS and send info about false alert |![professor](https://github.com/Divijkatyal0406/CrowdQuest/blob/master/images/discuss.png)
+User can set the pin which can be used to turn off the SOS and send info about false alert |<img src="https://github.com/Divijkatyal0406/GoSecure/blob/master/README-images/safety-pin.jpeg" width="230" height="450">
+**Scream Alert** 
+Detects human scream to send alerts to saved contacts!|<img src="https://github.com/Divijkatyal0406/GoSecure/blob/master/README-images/nir-scream.jpeg" width="230" height="450">
 **LiveSafe**
 Finds and guides user to nearest police stations, hospitals and bus stations |![professor](https://github.com/Divijkatyal0406/CrowdQuest/blob/master/images/ocr.png)
 **Spy Cam Detector**
-Uses magnetometer sensors of the phone to detect any potencial active camera around! |![professor](https://github.com/Divijkatyal0406/CrowdQuest/blob/master/images/virtual.png)
+Uses magnetometer sensors of the phone to detect any potencial active camera around! |<img src="https://github.com/Divijkatyal0406/GoSecure/blob/master/README-images/spy-cam.jpeg" width="230" height="450">
 **Articles**
-Various motivational articles for women |![professor](https://github.com/Divijkatyal0406/CrowdQuest/blob/master/images/multi.png)
+Various motivational articles for women | <img src="https://github.com/Divijkatyal0406/GoSecure/blob/master/README-images/articles.jpeg" width="230" height="450">
 **Self defence**
-Self Defence techniques to empower women! |![professor](https://github.com/Divijkatyal0406/CrowdQuest/blob/master/images/sample.png)
+Self Defence techniques to empower women! | <img src="https://github.com/Divijkatyal0406/GoSecure/blob/master/README-images/self-defence.jpeg" width="230" height="450">
 **Fake Call**
-Fake call generator to get out of suspectful situaltion |![professor](https://github.com/Divijkatyal0406/CrowdQuest/blob/master/images/discuss.png)
+Fake call generator to get out of suspectful situaltion | <img src="https://github.com/Divijkatyal0406/GoSecure/blob/master/README-images/fake-call.jpeg" width="230" height="450">
 **Shake Detector**
-Shake frequency detector to send alerts |![professor](https://github.com/Divijkatyal0406/CrowdQuest/blob/master/images/discuss.png)
+Shake frequency detector to send alerts | <img src="https://github.com/Divijkatyal0406/GoSecure/blob/master/README-images/shake-detect.jpeg" width="230" height="450">
 
 
 
