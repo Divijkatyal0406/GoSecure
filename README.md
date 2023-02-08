@@ -1,7 +1,7 @@
 # GoSecure
 
 
-<h1 align="center"><img width=20% height=50% alt="SheHeroes" src="https://github.com/Divijkatyal0406/GoSecure/blob/master/GoSecure-logos-modified%20(2).png"></h1>
+<h1 align="center"><img width=20% height=50% alt="GoSecure" src="https://raw.githubusercontent.com/Divijkatyal0406/GoSecure/master/assets/GoSecure-logos.png?token=GHSAT0AAAAAABO63C3TN5U2V7M4LOLJFATEY5L2DJA"></h1>
 
 <h1 align="center">🅶🅾🆂🅴🅲🆄🆁🅴 - Women Safety App</h1>
 <!--[![All Contributors](https://img.shields.io/badge/all_contributors-04-orange.svg?style=flat-square)](#contributors-)-->
@@ -23,9 +23,8 @@ Keeping this mind I developed an application named <b>GoSecure</b>.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
+<h2 align="center" id="TechStack"> 🧰 Tech Stack
 <br>
-
-<h2 align="center" id="TechStack"> :label: Tech Stack
 
 ```diff
 + Flutter +
@@ -43,12 +42,31 @@ Keeping this mind I developed an application named <b>GoSecure</b>.
 <br>
 
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<br>
+
+<h2 align="center" id="TechStack"> 🤺 Core Features</h2>
+
+👉 Send alerts by detecting shake frequency of the user.<br>
+👉 Spy camera detector using magnetometer sensors of phone.<br>
+👉 Share location with your selected contacts periodically.<br>
+👉 Women emergency contacts on your fingertips.<br>
+👉 Get fake call instantly or after some delay.<br>
+👉 Scream alert to detect human scream and send alerts accordingly.<br>
+👉 Various articles and self defence techniques to empower women.<br>
+👉 Conversational Al for voice commands processing. You can tap on it and speak.<br>
+*get a fake call now, add contact, police, spy cam detector, send alerts, report, show
+articles, enable siren.....*
+<br>
+
+
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## 🔗 Links for project:  
  
-Download APK : here
+Download APK : [here](https://drive.google.com/file/d/1wv_ILZ_1aM0QC3-V5RrMzVOiSK3lkX8D/view?usp=sharing)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
