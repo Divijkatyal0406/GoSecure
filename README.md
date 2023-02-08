@@ -1,7 +1,7 @@
 # GoSecure
 
 
-<h1 align="center"><img width=20% height=50% alt="GoSecure" src="https://raw.githubusercontent.com/Divijkatyal0406/GoSecure/master/assets/GoSecure-logos.png?token=GHSAT0AAAAAABO63C3TN5U2V7M4LOLJFATEY5L2DJA"></h1>
+<h1 align="center"><img width=20% height=50% alt="GoSecure" src="https://github.com/Divijkatyal0406/GoSecure/blob/master/README-images/logo-1.png"></h1>
 
 <h1 align="center">🅶🅾🆂🅴🅲🆄🆁🅴 - Women Safety App</h1>
 <!--[![All Contributors](https://img.shields.io/badge/all_contributors-04-orange.svg?style=flat-square)](#contributors-)-->
@@ -74,7 +74,7 @@ Download APK : [here](https://drive.google.com/file/d/1wv_ILZ_1aM0QC3-V5RrMzVOiS
 Feature | Images
 ------------ | -------------
  **Dashboard**  
- It is fast, easy to use, and incredibly convenient with a minimalistic UI! | <img src="https://github.com/Divijkatyal0406/GoSecure/blob/master/README-images/Dash.jpeg" width="230" height="450">
+ It is fast, easy to use, and incredibly convenient with a minimalistic UI! | <img src="https://github.com/Divijkatyal0406/GoSecure/blob/master/README-images/Screenshot%202023-02-08%20190914.png" width="230" height="450">
 **Go Nirbhaya**
 Sends journey alerts periodically with the loved ones! |<img src="https://github.com/Divijkatyal0406/GoSecure/blob/master/README-images/nir-scream.jpeg" width="230" height="450">
 **Emergency contacts**
