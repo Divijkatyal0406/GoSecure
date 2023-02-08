@@ -37,7 +37,7 @@ class SwipeButtonDemo extends StatelessWidget {
                   content: Center(
                     child: Text(
                       'Report to NCW cell',
-                      style: TextStyle(color: Colors.white70,fontSize: MediaQuery.of(context).size.width * 0.043,),
+                      style: TextStyle(color: Colors.white,fontSize: MediaQuery.of(context).size.width * 0.043,),
                     ),
                   ),
                   onChanged: (result) {
