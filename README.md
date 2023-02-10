@@ -94,7 +94,7 @@ Sends journey alerts periodically with the loved ones! |<img src="https://github
 **Emergency contacts**
 Users are provided with various women emergency helplines on their fingertips | <img src="https://github.com/Divijkatyal0406/GoSecure/blob/master/README-images/emer-con.png" width="230" height="400">
 **Safety Pin**
-User can set the pin which can be used to turn off the SOS and send info about false alert |<img src="https://github.com/Divijkatyal0406/GoSecure/blob/master/README-images/safety-pin.png" width="230" height="400">
+The flagship feature with which user can set the security pin which can be used to turn off the SOS and send info about false alert |<img src="https://github.com/Divijkatyal0406/GoSecure/blob/master/README-images/safety-pin.png" width="230" height="400">
 **Scream Alert** 
 Detects human scream to send alerts to saved contacts!|<img src="https://github.com/Divijkatyal0406/GoSecure/blob/master/README-images/nir-scream.png" width="230" height="400">
 **LiveSafe**
@@ -106,6 +106,6 @@ Various motivational articles for women | <img src="https://github.com/Divijkaty
 **Self defence**
 Self Defence techniques to empower women! | <img src="https://github.com/Divijkatyal0406/GoSecure/blob/master/README-images/self-defense.png" width="230" height="400">
 **Fake Call**
-Fake call generator to get out of suspectful situaltion | <img src="https://github.com/Divijkatyal0406/GoSecure/blob/master/README-images/fake-call.png" width="230" height="400">
+Fake call generator to get out of suspectful situation | <img src="https://github.com/Divijkatyal0406/GoSecure/blob/master/README-images/fake-call.png" width="230" height="400">
 **Shake Detector**
 Shake frequency detector to send alerts | <img src="https://github.com/Divijkatyal0406/GoSecure/blob/master/README-images/shake-detect.png" width="230" height="400">
