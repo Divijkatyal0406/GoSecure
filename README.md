@@ -88,7 +88,7 @@ Download APK : [here](https://drive.google.com/file/d/1wv_ILZ_1aM0QC3-V5RrMzVOiS
 Feature | Images
 ------------ | -------------
  **Dashboard**  
- It is fast, easy to use, and incredibly convenient with a minimalistic UI! | <img src="https://github.com/Divijkatyal0406/GoSecure/blob/master/README-images/Screenshot%202023-02-08%20190914.png" width="230" height="400">
+ It is fast, easy to use, and incredibly convenient with a minimalistic UI! | <img src="https://github.com/Divijkatyal0406/GoSecure/blob/master/README-images/Screenshot%202023-02-08%20190914.png" width="230" height="350">
 **Go Nirbhaya**
 Sends journey alerts periodically with the loved ones! |<img src="https://github.com/Divijkatyal0406/GoSecure/blob/master/README-images/nir-scream.png" width="230" height="400">
 **Emergency contacts**
